@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function article_1() {
 	return {
 		date: "7 May 2023",
